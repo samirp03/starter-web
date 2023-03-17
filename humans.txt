@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Samir Poudel <twitter>
+    Samir Poudel
+	samir.poudel03@gmail.com
+	
 
 # THANKS
 
