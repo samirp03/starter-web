@@ -24,4 +24,4 @@ Adding important notes on git stash.
 
     HTML5, CSS3, React
     jQuery, Modernizr
-	GCP
+	GCP, AWS Solution Architect Developer
