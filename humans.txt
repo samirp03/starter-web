@@ -2,10 +2,12 @@
 # The humans responsible & technology colophon
 Hi, I am modifying the file before rebase.
 
+
 # TEAM
 
     Samir Poudel
 	samir.poudel03@gmail.com
+	DevOps Engineer
 	
 
 # THANKS
