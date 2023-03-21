@@ -1,3 +1,3 @@
 #Adding Git ignored file in Git Stash
-testfile.txt
+#testfile.txt
 *.log
